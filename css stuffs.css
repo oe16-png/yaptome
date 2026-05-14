@@ -1,0 +1,15 @@
+body{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: 5em;
+    font-weight: 700;
+
+}
+button{
+    transform:scale(2.0,2.0);
+    margin-right: 25.0px;
+    margin-left: 25.0px;
+}
+textarea{
+    transform: scale(1.5,1.5);
+}
