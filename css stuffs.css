@@ -12,6 +12,6 @@ button{
 }
 textarea{
     transform: scale(1.5,1.5);
-    margin-right: 25.0px;
-    margin-left: 25.0px;
+    margin-right: 50.0px;
+    margin-left: 50.0px;
 }
