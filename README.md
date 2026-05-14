@@ -1,5 +1,5 @@
 # yaptome
-A TTS extension cause im sick of paywalls to the good stuff.
+A TTS extension cause i'm sick of paywalls to the good stuff.
 
 The finalised version will be able to :
 - read almost any website
@@ -10,6 +10,7 @@ The finalised version will be able to :
 - You should be able to click on a line/word, and it will read from the start of the sentence you clicked on
 - If it pauses, it should save your progress.
 - have a pause/resume, stop, speed, and voice button in an accessible layout
-- There's more, but I'm forgetting what.
+- have a website, extension, and app version with almost the same features available for all three.
+-  There's more, but I'm forgetting what.
 
-I AM A BEGINNER AT CODING. THIS WILL CHANGE A T O N.
+I AM A BEGINNER AT CODING. THIS EXTENTSION WILL CHANGE A T O N.
