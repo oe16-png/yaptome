@@ -5,6 +5,7 @@ readnext()
 }
 let sentences = []
 let currentIndex= 0
+let rate = 1
 
 function readnext() {
 if (currentIndex>sentences.length) return
@@ -26,6 +27,10 @@ function go() {
 
 rate.onchange = () => {
   rateValue.textContent = rate.value;
+}
+
+function end(){
+    speechSynthesis.cancel()
 }
 /*
 
