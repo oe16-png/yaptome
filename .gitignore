@@ -1,1 +1,7 @@
+im going to use this as a progress indicator. 
 
+ discovered a pause button bug- need to test this on wondows to see if its firefox on linux specific. 
+discovered easyspeak. think critically about how implimenting this would affect your project. 
+add get voices function
+add pitch function
+fix get voices returning no voices error
